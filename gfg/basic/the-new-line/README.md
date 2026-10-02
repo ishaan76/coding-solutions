@@ -23,17 +23,17 @@ Explanation: Each word is printed on a separate line.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-02T09:55:16.031Z  
+**Submitted:** 2026-10-02T09:57:01.534Z  
 
 ```py
 # code here
-int main() {
-    // code here
-    cout << "Geeks \nfor \nGeeks" << endl;
+# int main() {
+#     // code here
+#     cout << "Geeks \nfor \nGeeks" << endl;
 
-    return 0;
-}
-
+#     return 0;
+# }
+print("Geeks \nfor \nGeeks")
 
 ```
 
