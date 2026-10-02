@@ -11,7 +11,7 @@ _Description not available._
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-02T11:29:56.629Z  
+**Submitted:** 2026-10-02T11:35:34.742Z  
 
 ```py
 n = int(input())
