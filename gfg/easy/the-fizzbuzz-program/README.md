@@ -43,7 +43,7 @@ Explanation: 7 is not divisible by 3 or 5.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-02T10:10:22.660Z  
+**Submitted:** 2026-10-02T10:10:29.691Z  
 
 ```py
 num = int(input())
