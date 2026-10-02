@@ -33,7 +33,7 @@ Explanation: Length of perpendicular and base of triangle is 3.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-02T11:22:08.834Z  
+**Submitted:** 2026-10-02T11:22:13.315Z  
 
 ```py
 n = int(input())
