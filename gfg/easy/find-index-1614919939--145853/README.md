@@ -23,7 +23,7 @@ Output: 3
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-05T19:24:31.015Z  
+**Submitted:** 2026-10-05T19:24:51.394Z  
 
 ```py
 arr = tuple(map(int, input().split()))
