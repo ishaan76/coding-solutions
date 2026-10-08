@@ -11,7 +11,7 @@ _Description not available._
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-08T14:04:41.584Z  
+**Submitted:** 2026-10-08T14:12:19.574Z  
 
 ```py
 # # insert into dictionary
@@ -29,12 +29,12 @@ def insert_dict(query, dict):
     dict[query[1]] = int(query[2])
     return "Inserted"
 
-    # deleting from dictionary
+# deleting from dictionary
 def del_dict(query, dict):
        del dict[query[1]]
        return "Deleted"
 
-    # print marks of required name
+# print marks of required name
 def print_dict(key, dict):
     if key in dict:
         print(f"Marks of {key} is {dict[key]}")
