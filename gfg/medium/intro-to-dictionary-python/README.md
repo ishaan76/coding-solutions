@@ -11,7 +11,7 @@ _Description not available._
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-25T08:06:25.658Z  
+**Submitted:** 2026-11-25T08:06:31.338Z  
 
 ```py
 def dictFromLists(names, marks):
